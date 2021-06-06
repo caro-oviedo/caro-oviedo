@@ -1,4 +1,4 @@
-<img src="typewriter.jpg" width=100% height=auto>
+<img src="typewriter2.jpg" width=100% height=auto>
 
 
 # HTML - CSS - JS
