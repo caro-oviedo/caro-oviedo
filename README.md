@@ -1,3 +1,5 @@
+<img src="typewriter.png" width=100% height=auto>
+<img src="keyboard" width=100% height=auto>
 
 
 # HTML - CSS - JS
