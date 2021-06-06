@@ -1,4 +1,4 @@
-<img src="keyboard.jpg" width=100% height=auto>
+<img src="typewriter.jpg" width=100% height=auto>
 
 
 # HTML - CSS - JS
