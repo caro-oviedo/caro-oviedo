@@ -11,3 +11,6 @@
 # Django     
 [Projects](https://github.com/caro-oviedo/Django-Projects)
 
+# Copy Editing Collaboration 
+[Posts](https://github.com/caro-oviedo/Copy-Editing)
+
