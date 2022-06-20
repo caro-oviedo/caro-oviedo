@@ -12,7 +12,7 @@
 + [Learning Python](https://github.com/caro-oviedo/LearningPython)
 
 ## Algorithms , Hacker Rank & others
-+[Hacker Rank](https://github.com/caro-oviedo/HackerRank)
++ [Hacker Rank](https://github.com/caro-oviedo/HackerRank)
 
 ## Django     
 + [Projects](https://github.com/caro-oviedo/Django-Projects)
