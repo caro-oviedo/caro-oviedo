@@ -13,6 +13,7 @@
 
 ## Algorithms , Hacker Rank & others
 + [Hacker Rank](https://github.com/caro-oviedo/HackerRank)
++ [Algorithms](https://github.com/caro-oviedo/Algorithms)
 
 ## Django     
 + [Projects](https://github.com/caro-oviedo/Django-Projects)
